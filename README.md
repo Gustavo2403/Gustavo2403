@@ -41,6 +41,6 @@ Evoluir de forma consistente
 
 📬 Contato
 
-🔗 LinkedIn: ([coloque seu link aqui](https://www.linkedin.com/in/gustavo-rocha-moreira-895863215/))
+🔗 LinkedIn: (https://www.linkedin.com/in/gustavo-rocha-moreira-895863215/)
 
 ✨ Sempre em evolução | Aberto a oportunidades
