@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Gustavo Rocha
 
-🎓 Formado em Ciência da Computação (há 1 ano e 6 meses)
+🎓 Formado em Ciência da Computação (há 1 ano e 6 meses)  
 💻 Técnico em Desenvolvimento de Sistemas
 
 🚀 Sobre mim
@@ -11,36 +11,35 @@ Mesmo fora da área, desenvolvi disciplina, responsabilidade e comprometimento �
 
 💻 Foco atual
 
-🔹 Desenvolvimento Full Stack
-🔹 Maior foco em Front-End
+🔹 Desenvolvimento Full Stack  
+🔹 Maior foco em Front-End  
 🔹 Estudando e desenvolvendo projetos com:
+   - Node.js  
+   - React  
+   - Python  
+     
+📌 Projetos:  
 
-Node.js
-React
-Python
-📌 Projetos
-
-🚀 Desenvolvimento de projetos práticos com foco em aprendizado contínuo
-
-🔹 Conversor e binarizador de imagens para OCR
-
-Processamento de +7.000 imagens
-Uso de OpenCV para tratamento e binarização
-Automação de tarefas repetitivas
-🎯 Objetivo
-
+  🔹 Conversor e binarizador de imagens para OCR  
+   - Processamento imagens;  
+   - Uso de OpenCV para tratamento e binarização;  
+   - Automação de tarefas repetitivas;  
+    
+🎯 Objetivo:  
 Busco uma oportunidade na área de desenvolvimento onde eu possa:
 
-Aplicar meus conhecimentos
-Aprender com profissionais experientes
-Evoluir de forma consistente
+  - Aplicar meus conhecimentos;
+    
+  - Aprender com profissionais experientes;
+    
+  - E voluir de forma consistente;
+  
 📈 Em constante evolução
 
-📌 Compartilhando projetos no GitHub como forma de aprendizado
+📌 Compartilhando projetos no GitHub como forma de aprendizado  
 📌 Buscando minha primeira oportunidade na área
 
-📬 Contato
-
+📬 Contato  
 🔗 LinkedIn: (https://www.linkedin.com/in/gustavo-rocha-moreira-895863215/)
 
 ✨ Sempre em evolução | Aberto a oportunidades
